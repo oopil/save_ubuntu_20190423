@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn-100000"
+all_model_checkpoint_paths: "cnn-96000"
+all_model_checkpoint_paths: "cnn-97000"
+all_model_checkpoint_paths: "cnn-98000"
+all_model_checkpoint_paths: "cnn-99000"
+all_model_checkpoint_paths: "cnn-100000"
